@@ -1,0 +1,186 @@
+<div class="resultsbar">
+    <div class="sortbar">
+        <ul>
+            <li><strong>Sort by:</strong></li>
+            <li>
+                                                <a id="sort-date" href="#" class="sort active down">Date</a>
+                                            </li>
+            <li>
+                                <a id="sort-comments" href="#" class="sort">Comments</a>
+                            </li>
+        </ul>
+    </div>
+    <div class="pagination">
+        <ul>
+            <li><strong>Results (549)</strong></li>
+            <li>
+                        <span class="dis">&#171;</span><a class=" active" rel="1" href="#?page=1">01</a><a class="" rel="2" href="#?page=2">02</a><a class="" rel="3" href="#?page=3">03</a><a class="" rel="4" href="#?page=4">04</a><a class="" rel="5" href="#?page=5">05</a><a class="" rel="6" href="#?page=6">06</a><a class="" rel="7" href="#?page=7">07</a><span class="sep">...</span><a class="" rel="45" href="#?page=45">45</a><a class="" rel="46" href="#?page=46">46</a><a class="next" rel="2" href="#?page=2">&#187;</a>            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1406/blade-fat-lady-2015">
+                <img src="/site/cache/images/138_138_orig_crop_5e534556a018636b4095063d9aefd866.png" width="138" height="138" alt="Blade Fat Lady 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1406/blade-fat-lady-2015">Blade Fat Lady 2015</a></h2>
+                        <span class="price">No price information available</span>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1397/f-one-bandit8-2015">
+                <img src="/site/cache/images/138_138_orig_crop_3f8fc7126f2ac367afaaf2332a72ee8d.png" width="138" height="138" alt="F-one Bandit8 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1397/f-one-bandit8-2015">F-one Bandit8 2015</a></h2>
+                        <span class="price">No price information available</span>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1384/cabrinha-radar-2015">
+                <img src="/site/cache/images/138_138_orig_crop_4cbe7562263803df535e867ce3295afb.png" width="138" height="138" alt="Cabrinha Radar 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1384/cabrinha-radar-2015">Cabrinha Radar 2015</a></h2>
+                        <span class="price">No price information available</span>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1398/north-rebel-2015">
+                <img src="/site/cache/images/138_138_orig_crop_324db83a2a927dcc011fee4ee4788283.png" width="138" height="138" alt="North Rebel 2015" />
+                <span class="has-review"></span>            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1398/north-rebel-2015">North Rebel 2015</a></h2>
+                        <span class="price">No price information available</span>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1376/core-gts3-2015">
+                <img src="/site/cache/images/138_138_orig_crop_d2abfd374a5af5f1fd24717e68aeca55.png" width="138" height="138" alt="CORE GTS3 2015" />
+                <span class="has-review"></span>            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1376/core-gts3-2015">CORE GTS3 2015</a></h2>
+                        <span class="price">EUR 949.00</span>                                                <a href="http://www.kitefinder.com/en/kites/1376/core-gts3-2015?tab=prices">View prices</a>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1395/best-kahoona-2015">
+                <img src="/site/cache/images/138_138_orig_crop_399c8130d0fba2f421d8f2e24fef3888.jpg" width="138" height="138" alt="Best Kahoona 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1395/best-kahoona-2015">Best Kahoona 2015</a></h2>
+                        <span class="price">EUR 899.00</span>            <span class="price">USD 949.00</span>                                    <a href="http://www.kitefinder.com/en/kites/1395/best-kahoona-2015?tab=prices">View prices</a>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1404/ozone-reo-2015">
+                <img src="/site/cache/images/138_138_orig_crop_72fe2d8776aff4db04238f3b19aa41ea.png" width="138" height="138" alt="Ozone Reo 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1404/ozone-reo-2015">Ozone Reo 2015</a></h2>
+                        <span class="price">No price information available</span>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1403/airush-varialx-2015">
+                <img src="/site/cache/images/138_138_orig_crop_70fcf5501ed21022edd384005a6cb939.png" width="138" height="138" alt="Airush VarialX 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1403/airush-varialx-2015">Airush VarialX 2015</a></h2>
+                        <span class="price">No price information available</span>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1382/slingshot-rally-2015">
+                <img src="/site/cache/images/138_138_orig_crop_d154199e229d3ea20a105fa71d941f6e.png" width="138" height="138" alt="Slingshot Rally 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1382/slingshot-rally-2015">Slingshot Rally 2015</a></h2>
+                                    <span class="price">USD 999.00</span>                                    <a href="http://www.kitefinder.com/en/kites/1382/slingshot-rally-2015?tab=prices">View prices</a>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1399/north-dice-2015">
+                <img src="/site/cache/images/138_138_orig_crop_e4342418b09dbb5f816984efb7962d9e.png" width="138" height="138" alt="North Dice 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1399/north-dice-2015">North Dice 2015</a></h2>
+                        <span class="price">No price information available</span>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1372/naish-draft-2015">
+                <img src="/site/cache/images/138_138_orig_crop_c993efadfb26d7a754aa4b9aca078d68.png" width="138" height="138" alt="Naish Draft 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1372/naish-draft-2015">Naish Draft 2015</a></h2>
+                        <span class="price">EUR 1,049.00</span>            <span class="price">USD 1,090.00</span>                                    <a href="http://www.kitefinder.com/en/kites/1372/naish-draft-2015?tab=prices">View prices</a>
+                    </div>
+    </div>
+</div>
+<div class="kite">
+    <div class="wrapper">
+                <div class="thumb-holder">
+        	<a href="http://www.kitefinder.com/en/kites/1383/cabrinha-switchblade-2015">
+                <img src="/site/cache/images/138_138_orig_crop_e9f41521d2acf907f4c56ea0764b8210.png" width="138" height="138" alt="Cabrinha Switchblade 2015" />
+                            </a>
+        </div>
+                <div class="kite-caption">
+            <h2><a href="http://www.kitefinder.com/en/kites/1383/cabrinha-switchblade-2015">Cabrinha Switchblade 2015</a></h2>
+                        <span class="price">No price information available</span>
+                    </div>
+    </div>
+</div>
+<div class="resultsbar">
+    <div class="pagination">
+        <ul>
+            <li><strong>Results (549)</strong></li>
+            <li><span class="dis">&#171;</span><a class=" active" rel="1" href="#?page=1">01</a><a class="" rel="2" href="#?page=2">02</a><a class="" rel="3" href="#?page=3">03</a><a class="" rel="4" href="#?page=4">04</a><a class="" rel="5" href="#?page=5">05</a><a class="" rel="6" href="#?page=6">06</a><a class="" rel="7" href="#?page=7">07</a><span class="sep">...</span><a class="" rel="45" href="#?page=45">45</a><a class="" rel="46" href="#?page=46">46</a><a class="next" rel="2" href="#?page=2">&#187;</a></li>
+        </ul>
+    </div>
+</div>
+<div class="clear"></div>

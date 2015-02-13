@@ -1,0 +1,24 @@
+<tr> <th>Riding type:</th> <td> Freeride/Allround </td> </tr>
+<tr> <th>Year:</th> <td> 2015 </td> </tr>
+<tr> <th>Brand:</th> <td> Cabrinha </td> </tr>
+<tr> <th>Size:</th> <td> 03.5m, 05m, 07m, 09m, 10m, 12m, 14m </td> </tr>
+<tr> <th>Type:</th> <td> SLE </td> </tr>
+<tr> <th>Share:</th> <td> <span st_url="http://www.kitefinder.com/en/kites/1384/cabrinha-radar-2015" class="st_facebook_hcount"></span> <span st_url="http://www.kitefinder.com/en/kites/1384/cabrinha-radar-2015" class="st_twitter_hcount"></span> <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> <script type="text/javascript">stLight.options({ publisher:'ab40070c-ae13-47f5-a4bf-4785a0c1a1b1' }); </script> </td> </tr>
+<tr> <th></th> <td> <div style="width: 100px;" class="g-plus" data-action="share"></div> </td> </tr>
+<tr> <th>Riding type:</th> <td> Freeride/Allround </td> </tr>
+<tr> <th>Year:</th> <td itemprop="identifier"> 2015 </td> </tr>
+<tr> <th>Brand:</th> <td itemprop="brand"> Cabrinha </td> </tr>
+<tr> <th>Size:</th> <td> 03.5m, 05m, 07m, 09m, 10m, 12m, 14m </td> </tr>
+<tr> <th>Type:</th> <td> SLE </td> </tr>
+<tr> <th>One pump:</th> <td> Yes </td> </tr>
+<tr> <th>Bridles:</th> <td> Yes </td> </tr>
+<tr> <th>Number of struts:</th> <td> 3 </td> </tr>
+<tr> <th>Colours:</th> <td> Various </td> </tr>
+<tr> <th>Bar length:</th> <td> 49cm-57cm </td> </tr>
+<tr> <th>Line length:</th> <td> 22m </td> </tr>
+<tr> <th>Bar:</th> <td> 4 lines </td> </tr>
+<tr> <th>Depower:</th> <td> Strap </td> </tr>
+<tr> <th>Safety:</th> <td> Push </td> </tr>
+<tr> <th>Swivel:</th> <td> Yes </td> </tr>
+<tr> <th>Variable bar length:</th> <td> Yes </td> </tr>
+<tr> <th>Oh shit handles:</th> <td> No </td> </tr>
